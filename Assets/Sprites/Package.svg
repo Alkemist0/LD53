@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666666 8.4666666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Package.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="22.340155"
+     inkscape:cy="15.733126"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 4.2333333 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="8.4666666 : 4.2333333 : 1"
+       inkscape:persp3d-origin="4.2333333 : 2.8222222 : 1"
+       id="perspective279" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#6c5353;stroke-width:0.482231"
+       id="rect111"
+       width="8.4666662"
+       height="8.4666662"
+       x="2.220446e-16"
+       y="0" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.295476"
+       id="rect557"
+       width="2.1166666"
+       height="1.0583333"
+       x="6.0854168"
+       y="7.1437497" />
+    <rect
+       style="fill:#000000;stroke-width:0.239363"
+       id="rect561"
+       width="1.8520833"
+       height="0.79374999"
+       x="6.2177081"
+       y="7.2760415" />
+    <path
+       id="rect222"
+       style="fill:#2b1100;stroke-width:0.265948"
+       d="M 4.2333333 1.0583333 L 2.6458333 1.5875 L 2.6458333 3.7041666 L 4.2333333 5.2916666 L 5.8208333 3.7041666 L 5.8208333 1.5875 L 4.2333333 1.0583333 z " />
+    <path
+       id="path381"
+       style="fill:#ffcc00;stroke-width:0.246541"
+       d="M 4.2333333,1.190625 2.778125,1.6867188 V 3.6710937 L 4.2333333,5.159375 5.6885416,3.6710937 V 1.6867188 Z" />
+  </g>
+</svg>
